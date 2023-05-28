@@ -7,7 +7,9 @@ Aplikasi FallAssist dikembangkan menggunakan framework Flutter, yang merupakan f
 
 Aplikasi FallAssist menggunakan model machine learning yang diklasifikasikan dengan bahasa Python. Model ini telah dilatih menggunakan dataset sisfall, yang berisi data jatuh dan tidak jatuh. Model ini mempelajari pola gerakan yang terkait dengan kejadian jatuh, sehingga dapat mengenali ketika gerakan tersebut terdeteksi pada data yang diterima dari sensor akselerometer. Ketika model mengklasifikasikan gerakan sebagai "jatuh", aplikasi FallAssist akan memberikan notifikasi kepada pengguna atau orang-orang yang dipilih sebelumnya agar dapat merespons kejadian tersebut dengan cepat dan memberikan bantuan yang diperlukan.
 
-Dengan adanya aplikasi FallAssist, orang tua atau lansia dapat merasa lebih aman karena mereka dapat memantau potensi kejadian jatuh secara real-time. Aplikasi ini memberikan perlindungan dan keamanan tambahan bagi pengguna dengan menggunakan teknologi wearable sensor dan kemampuan machine learning untuk mendeteksi jatuh.
+Dalam aplikasi FallAssist, data yang terdeteksi dari sensor akselerometer juga disimpan secara real-time pada Firebase Realtime Database. Hal ini memungkinkan informasi tentang gerakan, kejadian jatuh, dan notifikasi yang dikirimkan dapat diakses dan disimpan dalam waktu nyata. Dengan adanya penyimpanan data secara real-time, pengguna dan pihak yang berwenang, seperti keluarga atau petugas medis, dapat memantau dan mengakses data terkini tentang kejadian jatuh yang terdeteksi.
+
+Dengan adanya aplikasi FallAssist, orang tua atau lansia dapat merasa lebih aman karena mereka dapat memantau potensi kejadian jatuh secara real-time. Aplikasi ini memberikan perlindungan dan keamanan tambahan bagi pengguna dengan menggunakan teknologi wearable sensor dan kemampuan machine learning untuk mendeteksi jatuh, serta menyimpan data secara real-time untuk keperluan monitoring dan evaluasi lebih lanjut.
 </div>
 
 # Mobile View
