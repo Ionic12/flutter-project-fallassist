@@ -3,8 +3,11 @@
 # FallAssist
   
 </div>
-<div align="justify">
+
 > > Aplikasi "FallAssist" adalah sebuah aplikasi yang dirancang untuk memantau orang tua atau lansia agar dapat mendeteksi ketika mereka jatuh. Aplikasi ini menggunakan teknologi wearable sensor akselerometer yang terpasang pada tubuh lansia, yang terhubung secara real-time dengan aplikasi melalui koneksi nirkabel. Akselerometer ini akan merekam data gerakan tubuh dan mengirimkannya ke aplikasi FallAssist.
+
+<div align="justify">
+Aplikasi "FallAssist" adalah sebuah aplikasi yang dirancang untuk memantau orang tua atau lansia agar dapat mendeteksi ketika mereka jatuh. Aplikasi ini menggunakan teknologi wearable sensor akselerometer yang terpasang pada tubuh lansia, yang terhubung secara real-time dengan aplikasi melalui koneksi nirkabel. Akselerometer ini akan merekam data gerakan tubuh dan mengirimkannya ke aplikasi FallAssist.
 <br><br>
   Aplikasi FallAssist dikembangkan menggunakan framework Flutter, yang merupakan framework pengembangan aplikasi lintas platform yang dapat digunakan untuk mengembangkan aplikasi untuk iOS dan Android dengan menggunakan kode yang sama. Flutter menyediakan berbagai komponen antarmuka pengguna dan alat pengembangan yang memungkinkan pengembang untuk membuat aplikasi yang responsif dan menarik.
 <br><br>
