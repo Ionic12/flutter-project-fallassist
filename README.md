@@ -1,5 +1,8 @@
+<div align="center">
+  
 # FallAssist
-
+  
+</div>
 <div align="justify">
 Aplikasi "FallAssist" adalah sebuah aplikasi yang dirancang untuk memantau orang tua atau lansia agar dapat mendeteksi ketika mereka jatuh. Aplikasi ini menggunakan teknologi wearable sensor akselerometer yang terpasang pada tubuh lansia, yang terhubung secara real-time dengan aplikasi melalui koneksi nirkabel. Akselerometer ini akan merekam data gerakan tubuh dan mengirimkannya ke aplikasi FallAssist.
 <br><br>
