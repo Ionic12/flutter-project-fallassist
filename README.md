@@ -12,6 +12,6 @@ Dalam aplikasi FallAssist, data yang terdeteksi dari sensor akselerometer juga d
 Dengan adanya aplikasi FallAssist, orang tua atau lansia dapat merasa lebih aman karena mereka dapat memantau potensi kejadian jatuh secara real-time. Aplikasi ini memberikan perlindungan dan keamanan tambahan bagi pengguna dengan menggunakan teknologi wearable sensor dan kemampuan machine learning untuk mendeteksi jatuh, serta menyimpan data secara real-time untuk keperluan monitoring dan evaluasi lebih lanjut.
 </div>
 
-# Mobile View
+# Fall Assist Mobile View
 
 <img src="assets/Mockup 9.png" />
