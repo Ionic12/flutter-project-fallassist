@@ -14,4 +14,4 @@ Dengan adanya aplikasi FallAssist, orang tua atau lansia dapat merasa lebih aman
 
 # Mobile View
 
-<img src="assets/Mockup 5.png" />
+<img src="assets/Mockup 9.png" />
