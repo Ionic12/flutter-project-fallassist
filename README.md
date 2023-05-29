@@ -21,4 +21,4 @@ Aplikasi "FallAssist" adalah sebuah aplikasi yang dirancang untuk memantau orang
   
 </div>
 
-<img src="assets/Mockup 9.png" />
+<img src="info.png" />
