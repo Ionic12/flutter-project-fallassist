@@ -1,7 +1,14 @@
 <div align="center">
   
 # FallAssist
-  
+
+<p align="center">
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="400" alt="Flutter Logo">
+  </a>
+</p>
+
+
 </div>
 
 <div align="justify">
